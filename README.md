@@ -31,6 +31,6 @@ Software Engineer on the banking team at **Superlógica**, building generative A
 | [**Event-Driven E-commerce (Spring)**](https://github.com/TiagoAReiz/ecommerce-event-driven-spring) | Spring Boot microservices, Kafka + Debezium outbox, saga orchestration, CI |
 | [**MiniEcommerce**](https://github.com/TiagoAReiz/MiniEcommerce-Spring-boot) | Hexagonal architecture, Mercado Pago, 139 integration tests against real Postgres/Redis/MinIO |
 | [**Event-Driven Marketplace (NestJS)**](https://github.com/TiagoAReiz/Ecommerce-Event-Driven) | 8 microservices choreographed via Kafka, database-per-service |
-| [**TeAchei**](https://github.com/TiagoAReiz/teachei-api) | Reverse vehicle marketplace, live on Vercel |
+| [**TeAchei**](https://github.com/TiagoAReiz/teachei) | Reverse vehicle marketplace, live on Vercel |
 
 📫 [linkedin.com/in/tiagoreiz](https://www.linkedin.com/in/tiagoreiz) · São Paulo, Brazil · open to Software / Backend / AI Engineer roles
